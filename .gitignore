@@ -37,5 +37,3 @@ lerna-debug.log*
 
 # custom setup
 package-lock.json
-eslintrc.js
-prettierrc
